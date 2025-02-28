@@ -5,6 +5,11 @@ on:
     branches: ["main"]
   workflow_dispatch:
 
+permissions:
+  contents: read
+  id-token: write
+  pages: write
+
 env:
   INSTANCE: 'WAF-to-Athena/in'
   DOCKER_VERSION: '243.22562'
