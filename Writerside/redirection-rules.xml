@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="71147af3">
+        <description>Created after removal of "Starter" from WAF-to-Athena</description>
+        <accepts>starter.html</accepts>
+    </rule>
+    <rule id="3d8c8cb6">
+        <description>Created after removal of "Flatten Partitions Glue ETL Job" from WAF-to-Athena</description>
+        <accepts>Flatten-Partions-Glue-ETL-Job.html</accepts>
+    </rule>
+</rules>

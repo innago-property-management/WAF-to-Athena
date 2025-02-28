@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="in"
+                 name="WAF-to-Athena"
+                 start-page="AWS-WAF-Logs-to-Athena.md">
+
+    <toc-element topic="AWS-WAF-Logs-to-Athena.md"/>
+    <toc-element topic="Athena-Table-Definitions.md"/>
+    <toc-element topic="Athena-View-Definition.md"/>
+    <toc-element topic="Flatten-Partitions-Glue-ETL-Job.md"/>
+    <toc-element topic="Glue-Crawlers.md"/>
+</instance-profile>

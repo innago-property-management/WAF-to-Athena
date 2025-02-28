@@ -1,0 +1,8 @@
+:root {
+   --wh-max-width-l: 80vw;
+}
+
+code {
+    overflow-wrap: break-word;
+    text-wrap: pretty;
+}
