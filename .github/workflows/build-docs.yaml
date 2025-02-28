@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  INSTANCE: 'WAF-toAthena/in'
+  INSTANCE: 'WAF-to-Athena/in'
   DOCKER_VERSION: '243.22562'
 
 jobs:
